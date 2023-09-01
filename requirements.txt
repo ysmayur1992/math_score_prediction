@@ -3,4 +3,7 @@ catboost
 xgboost
 seaborn
 pandas
+scikit-learn
+dill
+flask
 #-e.
